@@ -15,6 +15,13 @@ prompts = [
         "content": "다음 제품의 매력적인 썸네일 이미지를 생성하기 위한 미드저니 프롬프트를 작성해주세요.",
         "category": "이미지 생성",
         "favorite": False
+    },
+    {
+        "id": 3,
+        "title": "파이썬 코드 리팩토링",
+        "content": "제공된 파이썬 코드를 PEP 8 스타일 가이드에 맞추어 가독성과 성능을 개선하고 주석을 달아주세요.",
+        "category": "자동화",
+        "favorite": True
     }
 ]
 
